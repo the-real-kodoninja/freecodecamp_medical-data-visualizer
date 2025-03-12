@@ -1,6 +1,6 @@
 # Medical Data Visualizer
 
-1[completed proof](https://github.com/the-real-kodoninja/freecodecamp_medical-data-visualizer/blob/main/captureit_3-12-2025_at_14-02-58.png)
+![completed proof](https://github.com/the-real-kodoninja/freecodecamp_medical-data-visualizer/blob/main/captureit_3-12-2025_at_14-02-58.png)
 
 gitpod /workspace/boilerplate-medical-data-visualizer (main) $ python3 main.py
 Aggregated DataFrame for categorical plot:
