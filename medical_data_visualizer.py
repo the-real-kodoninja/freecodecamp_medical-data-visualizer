@@ -41,12 +41,9 @@ def draw_cat_plot():
         num_bars = len(ax.patches)  # Count all patches (bars)
         print(f"Number of bars in subplot {ax.get_title()}: {num_bars}")
 
-    # Debugging: Print the number of bars in the plot
-    total_bars = sum(len(ax.patches) for ax in fig.axes.flat)  # Count patches in all axes
-    print(f"Total number of bars in the plot: {total_bars}")
-
     # 9
     return fig.fig  # Return the figure from the FacetGrid
+
 # 10
 def draw_heat_map():
     # 11
